@@ -9,7 +9,7 @@ const students = [
     { name: "Dilara", batch: "24.1" },
     { name: "Nulara", batch: "24.1" },
     { name: "Tharu", batch: "24.1" },
-    { name: "Miyu", batch: "24.1" },
+    { name: "Miyu", batch: "24.1" },    
     { name: "Chamu", batch: "24.1" },
 ];
 
